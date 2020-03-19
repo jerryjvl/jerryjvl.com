@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+
+title: JerryJvL
+description: Personal Blog v3.0
+logo: assets/avatar.png
+author: Jerry
+
+timezone: Australia/Sydney
+show_drafts: false
+future: false
+unpublished: false
+
+plugins:
+  - jekyll-feed
