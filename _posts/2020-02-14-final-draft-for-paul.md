@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Paul; A Final Draft
-author: Jerry
+title: "Paul; A Final Draft"
+date: 2020-02-14
+banner_image: 2020-02-14-Palace-and-Paul.jpg
 tags: [father, farewell]
-image: /assets/Palace-and-Paul.jpg
 ---
 
 All things must come to an end, and yet it's always still a bit of a surprise when they suddenly do.
-
-![Paul and the Palace](/assets/Palace-and-Paul.jpg)
 
 Yesterday, on the 13th, at just about noon local time in the Netherlands, my dad passed away.
 
@@ -17,6 +15,8 @@ Or I should say Paul.
 I know some people think it odd I have always addressed my parents by name, but to me it feels much more distant to say “dad”. You see; there's only one Paul, but there are dads littered all across space and time.
 
 Maybe this sharpens the loss of that one Paul right now, but I still have no regrets in the grand scheme of things.
+
+<!--more-->
 
 * * *
 
