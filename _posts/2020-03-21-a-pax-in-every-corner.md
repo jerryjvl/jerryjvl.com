@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 PAXes, Alike But Not The Same"
-date: 2020-03-21
+date: 2020-03-20
 banner_image: 2020-03-21-PAX-pins.jpg
 tags: [PAX, boardgames, D&D]
 ---
